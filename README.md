@@ -1,7 +1,5 @@
 🧑‍💻 Hi, I'm Adwaid Krishna K!
 
-🚀 AI & Data Engineering | Developer | Tech Enthusiast
-
 I'm an aspiring Data & AI Engineer with a strong interest in building scalable, data-driven applications and practical AI solutions. Passionate about learning, problem-solving, and applying technology to real-world use cases.  
 
 🔥 About Me
