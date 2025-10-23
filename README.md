@@ -4,11 +4,11 @@
 I'm an aspiring Data & AI Engineer with a strong interest in building scalable, data-driven applications and practical AI solutions. Passionate about learning, problem-solving, and applying technology to real-world use cases.  
 
 🔥 About Me
-🎓 B.Tech CSE (AI & Data Engineering) @ Lovely Professional University
-💡 Interested in AI, Machine Learning, Data Engineering, and Full-Stack Development
-🧠 Currently learning: DSA, Python for Data, Cloud & DevOps
-🤖 Building: AI-powered projects & analytics tools
-🌱 Love working on impactful and community-driven tech initiatives
+* 🎓 B.Tech CSE (AI & Data Engineering) @ Lovely Professional University
+* 💡 Interested in AI, Machine Learning, Data Engineering, and Full-Stack Development
+* 🧠 Currently learning: DSA, Python for Data, Cloud & DevOps
+* 🤖 Building: AI-powered projects & analytics tools
+* 🌱 Love working on impactful and community-driven tech initiatives
 
 🛠️ Tech Stack & Tools
 Languages
@@ -42,6 +42,8 @@ HTML | CSS | JavaScript | Node.js | Flutter
 🏆 Certifications
 📜 Microsoft DP-900: Azure Data Fundamentals
 🧠 IBM Certification in Hardware & OS Fundamentals
+
+<p align="left"> <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKrishnaK05&show_icons=true&hide_title=true&count_private=true&hide_border=true" /> <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKrishnaK05&layout=compact&hide_border=true" /> </p>
 
 📫 Connect with Me
 💼 LinkedIn: https://www.linkedin.com/in/adwaid-krishna-k/
