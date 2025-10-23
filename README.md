@@ -11,7 +11,6 @@ I'm an aspiring Data & AI Engineer with a strong interest in building scalable, 
 * 🤖 Building: AI-powered projects & analytics tools
 * 🌱 Love working on impactful and community-driven tech initiatives
 
-🛠️ Tech Stack & Tools
 ## 🌐 Languages
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Java Badge](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
