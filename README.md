@@ -1,4 +1,4 @@
-🧑‍💻 Hi, I'm Adwaid Krishna!
+🧑‍💻 Hi, I'm Adwaid Krishna K!
 
 🚀 AI & Data Engineering | Developer | Tech Enthusiast
 
