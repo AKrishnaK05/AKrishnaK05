@@ -65,24 +65,13 @@ A production-grade Medallion Lakehouse (Bronze → Silver → Gold) unifying ord
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Metrics
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=AKrishnaK05&show_icons=true&hide_title=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" height="165" />
+<img src="https://raw.githubusercontent.com/AKrishnaK05/AKrishnaK05/main/github-metrics.svg" width="100%" alt="GitHub Metrics" />
 <img src="https://streak-stats.demolab.com/?user=AKrishnaK05&hide_border=true&theme=tokyonight" height="165" />
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AKrishnaK05&layout=compact&hide_border=true&theme=tokyonight" height="165" />
-<img src="https://github-profile-trophy.vercel.app/?username=AKrishnaK05&theme=tokyonight&no-frame=true&row=2&column=3" height="165" />
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AKrishnaK05&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </div>
 
 <br/>
