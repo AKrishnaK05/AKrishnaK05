@@ -70,10 +70,8 @@ A production-grade Medallion Lakehouse (Bronze → Silver → Gold) unifying ord
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/AKrishnaK05/AKrishnaK05/main/github-metrics.svg" width="100%" alt="GitHub Metrics" />
-<img src="https://streak-stats.demolab.com/?user=AKrishnaK05&hide_border=true&theme=radical" height="165" />
 
 </div>
-
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" />
